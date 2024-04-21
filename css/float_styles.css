@@ -1,0 +1,33 @@
+body{
+    margin:0;
+}
+div{
+    background-color:#92eecf;
+}
+p{
+    width: 50%;
+    /*border: 1px dashed #03265a;*/
+    float:left;
+    padding: 10px;
+    /*margin: 10px;*/
+    /*margin-right:10px;*/
+}
+*{
+    box-sizing: border-box;
+
+}
+/* #p1{
+    background-color:#e5bc86;}
+#p2{
+    background-color:rgb(205, 159, 248);
+}
+#p3{
+    background-color:#d98383;
+    
+}
+#p4{
+    background-color:#6262fb;
+}*/
+section{
+    clear:left;
+}

@@ -1,0 +1,71 @@
+#my-pink-el{
+    color: rgb(246, 48, 81);
+    font-size: 20px;
+    font-weight: bold;
+}
+#shopping-list
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+    width:400px;
+    height: 235px;
+   
+    alt: "picture with a quote";
+}
+.div-my-class{
+    color: rgb(101, 101, 23);
+    font-size: 20px;
+    font-family:"Comic Sans MS", cursive, serif;
+    font-style: italic;
+    font-weight: bold;
+    background-color:rgb(233, 191, 237);
+    opacity: 0.6;
+    text-align: center;
+}
+div > ul, ol{
+    display:inline-block;
+    text-align: left;
+}
+a:link,a:visited
+{
+    text-decoration: none;
+    background-color: rgb(150, 150, 238);
+    border: 2px solid rgb(19, 22, 94);
+    color: white;
+    display: block;
+}
+
+a:hover
+{
+    opacity: 0.6;
+}
+body > a:link, section a:link{
+    width:200px;
+    margin-bottom: 10px;
+}
+body{
+    margin:0;
+    padding:0;
+}
+header  a:link, a:visited{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+    width: 200px;
+}
+header li {
+    list-style: none;
+}
+h4{
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(199, 97, 209)
+}
+li:hover{
+    color:black;
+    cursor:pointer;
+}
+
